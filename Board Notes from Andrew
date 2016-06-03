@@ -1,0 +1,6 @@
+add small cap from 5v to gnd (needs to be close to chip)
+gnd goes down 5v goes up
+r4 and 5 should be 4.7k
+reset from ftdi needs to be on the other side of the switch
+programmer needs 5v and gnd added to connector
+
